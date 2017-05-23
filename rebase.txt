@@ -9,4 +9,6 @@ begin master one
 
 begin master two
 
+begin rebase 3
 
+begin rebase 4
